@@ -38,10 +38,6 @@
                motion:framePosition="100"
                motion:motionTarget="@id/moon"/>
 
-           <KeyAttribute
-               android:alpha="0.0"
-               motion:framePosition="85"
-               motion:motionTarget="@id/credits" />
 
        </KeyFrameSet>
 

@@ -25,6 +25,18 @@
             android:name=".Motion_5"
             android:exported="false" />
         <activity
+            android:name=".Motion_4"
+            android:exported="false" />
+        <activity
+            android:name=".Motion_3"
+            android:exported="false" />
+        <activity
+            android:name=".Motion_2"
+            android:exported="false" />
+        <activity
+            android:name=".Motion_1"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

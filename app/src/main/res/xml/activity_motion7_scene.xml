@@ -61,11 +61,7 @@
                     motion:attributeName="colorFilter"
                     motion:customColorValue="#FFFFFF" />
             </KeyAttribute>
-            <KeyAttribute
-                android:alpha="0.0"
-                motion:framePosition="85"
-                motion:motionTarget="@id/credits" />
-        </KeyFrameSet>
+         </KeyFrameSet>
     </Transition>
 
 
